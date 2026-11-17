@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Fim da transmissão. Obrigado pela visita.">
+  <defs><linearGradient id="f"><stop stop-color="#101B2D"/><stop offset="1" stop-color="#152A49"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="98" rx="14" fill="url(#f)" stroke="#294772"/>
+  <path d="M24 16H1176" stroke="#497BC6" stroke-opacity=".4"/>
+  <text x="600" y="43" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="23" font-weight="700" fill="#DAE9FF">Fim da transmissão. Obrigado pela visita.</text>
+  <text x="600" y="72" text-anchor="middle" font-family="monospace" font-size="15" fill="#74A9FF">// um passo adiante a cada commit</text>
+</svg>

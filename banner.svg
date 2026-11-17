@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Diblaim Palmeira — Desenvolvimento de software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1222"/><stop offset="1" stop-color="#142746"/></linearGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#1F3D68"/><stop offset="0.7" stop-color="#72A9FF"/><stop offset="1" stop-color="#2A508C"/></linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#397AE8" stop-opacity=".32"/><stop offset="1" stop-color="#397AE8" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#25395B" stroke-opacity=".35" stroke-width="1"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="308" rx="20" fill="url(#bg)" stroke="#2A436A" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="306" rx="18" fill="url(#grid)" opacity=".7"/>
+  <circle cx="1030" cy="150" r="225" fill="url(#orb)"/>
+  <path d="M720 287 C830 180 951 178 1192 101" fill="none" stroke="#3B71C6" stroke-width="2" opacity=".28"/>
+  <path d="M900 303 C1010 220 1100 193 1182 176" fill="none" stroke="#8AB8FF" stroke-width="1.4" opacity=".25"/>
+  <rect x="54" y="44" width="169" height="26" rx="13" fill="#152E50" stroke="#315887"/>
+  <circle cx="71" cy="57" r="4" fill="#74A9FF"/>
+  <text x="88" y="62" font-size="12" font-family="Arial,DejaVu Sans,sans-serif" fill="#BAD4FB" letter-spacing="2">HELLO WORLD</text>
+  <text x="53" y="142" font-size="56" font-family="Arial,DejaVu Sans,sans-serif" font-weight="800" fill="#F5F8FF" letter-spacing="1.2">DIBLAIM</text>
+  <text x="53" y="204" font-size="56" font-family="Arial,DejaVu Sans,sans-serif" font-weight="800" fill="#75A9FC" letter-spacing="1.2">PALMEIRA</text>
+  <text x="56" y="243" font-size="18" font-family="Arial,DejaVu Sans,sans-serif" fill="#B4C7E6" letter-spacing=".5">Desenvolvimento de software  ·  Back-end  ·  ADS</text>
+  <rect x="853" y="67" width="274" height="180" rx="16" fill="#0C172A" stroke="#375682" stroke-width="2"/>
+  <rect x="853" y="67" width="274" height="38" rx="16" fill="#162C4E"/>
+  <rect x="853" y="89" width="274" height="16" fill="#162C4E"/>
+  <circle cx="875" cy="86" r="5" fill="#58739C"/><circle cx="892" cy="86" r="5" fill="#58739C"/><circle cx="909" cy="86" r="5" fill="#58739C"/>
+  <text x="875" y="143" font-size="20" font-family="monospace" fill="#76AAFC">const</text>
+  <text x="946" y="143" font-size="20" font-family="monospace" fill="#EFF5FF">developer</text>
+  <text x="1094" y="143" font-size="20" font-family="monospace" fill="#B5CBF7">=</text>
+  <text x="875" y="177" font-size="20" font-family="monospace" fill="#B5CBF7">{</text>
+  <text x="902" y="208" font-size="18" font-family="monospace" fill="#DFE8F9">build: </text>
+  <text x="981" y="208" font-size="18" font-family="monospace" fill="#75A9FC">"learn"</text>
+  <text x="875" y="232" font-size="20" font-family="monospace" fill="#B5CBF7">}</text>
+  <rect x="28" y="291" width="1144" height="3" rx="1.5" fill="url(#edge)" opacity=".75"/>
+</svg>
