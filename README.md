@@ -76,19 +76,33 @@ Sou estudante de Desenvolvimento de Software e trabalho principalmente com **Jav
 
 <h2 align="center">◢ PROJETOS EM DESTAQUE ◣</h2>
 
-<!-- Troque os nomes em "repo=" pelos nomes reais dos seus repositórios -->
-<a href="https://github.com/imlean64-gif/sistema-biblioteca">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imlean64-gif&repo=sistema-biblioteca&bg_color=0A0E17&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=1B2A41&show_owner=false" alt="sistema-biblioteca"/>
-</a>
-<a href="https://github.com/imlean64-gif/api-tarefas">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imlean64-gif&repo=api-tarefas&bg_color=0A0E17&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=1B2A41&show_owner=false" alt="api-tarefas"/>
-</a>
-<a href="https://github.com/imlean64-gif/automacao-relatorios">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imlean64-gif&repo=automacao-relatorios&bg_color=0A0E17&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=1B2A41&show_owner=false" alt="automacao-relatorios"/>
-</a>
-<a href="https://github.com/imlean64-gif/meu-portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=imlean64-gif&repo=meu-portfolio&bg_color=0A0E17&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=1B2A41&show_owner=false" alt="meu-portfolio"/>
-</a>
+<!-- Edite o nome, a descricao, a linguagem e o link de cada projeto -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/imlean64-gif?tab=repositories"><b>Nome do projeto 1</b></a><br/>
+      Descrição curta do que ele faz.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-0A0E17?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/imlean64-gif?tab=repositories"><b>Nome do projeto 2</b></a><br/>
+      Descrição curta do que ele faz.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-0A0E17?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/imlean64-gif?tab=repositories"><b>Nome do projeto 3</b></a><br/>
+      Descrição curta do que ele faz.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0A0E17?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/imlean64-gif?tab=repositories"><b>Nome do projeto 4</b></a><br/>
+      Descrição curta do que ele faz.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-0A0E17?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -104,8 +118,8 @@ Sou estudante de Desenvolvimento de Software e trabalho principalmente com **Jav
 
 <h2 align="center">◢ ESTATÍSTICAS DO GITHUB ◣</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imlean64-gif&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0A0E17&title_color=00F0FF&text_color=C9D1D9&icon_color=FF2A6D&border_color=1B2A41" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlean64-gif&layout=compact&langs_count=8&bg_color=0A0E17&title_color=00F0FF&text_color=C9D1D9&border_color=1B2A41" alt="Top Languages"/>
+<img width="49%" src="https://raw.githubusercontent.com/imlean64-gif/imlean64-gif/main/profile/stats.svg" alt="GitHub Stats"/>
+<img width="49%" src="https://raw.githubusercontent.com/imlean64-gif/imlean64-gif/main/profile/top-langs.svg" alt="Top Languages"/>
 
 <img width="98%" src="https://streak-stats.demolab.com?user=imlean64-gif&background=0A0E17&ring=00F0FF&fire=FF2A6D&currStreakNum=FFFFFF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=1B2A41&border=1B2A41" alt="GitHub Streak"/>
 
@@ -118,7 +132,7 @@ Sou estudante de Desenvolvimento de Software e trabalho principalmente com **Jav
 <h2 align="center">◢ TROFÉUS ◣</h2>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=imlean64-gif&theme=radical&column=7&margin-w=10&margin-h=10&title=Followers,Stars,Commits,Repositories,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=imlean64-gif&theme=radical&column=7&margin-w=10&margin-h=10&title=Followers,Stars,Commits,Repositories,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
 </a>
 
 <br/><br/>
